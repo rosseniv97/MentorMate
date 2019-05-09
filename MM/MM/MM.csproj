@@ -46,6 +46,7 @@
     <Compile Include="C:\Users\Rossen\Desktop\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
+    <Compile Include="Logo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
